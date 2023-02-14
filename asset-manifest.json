@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06c7804c.css",
+    "main.js": "/static/js/main.bed61fd5.js",
+    "static/js/415.6b0f0a86.chunk.js": "/static/js/415.6b0f0a86.chunk.js",
+    "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
+    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/text_to_image.png": "/static/media/text_to_image.73e3d7fc7e0fff258a51.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/potholes.png": "/static/media/potholes.886d5e00ba8ded822755.png",
+    "static/media/emotion.png": "/static/media/emotion.4017f8c71470e5c180d0.png",
+    "static/media/fm.png": "/static/media/fm.5ee285248605ece33a87.png",
+    "static/media/Dharneeshkar_Resume.pdf": "/static/media/Dharneeshkar_Resume.9ec7db01cfc81099fece.pdf",
+    "static/media/vo.png": "/static/media/vo.05aafd852077bba04091.png",
+    "static/media/etd.jpg": "/static/media/etd.8d28d5e092e6efc7c6c6.jpg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.06c7804c.css.map": "/static/css/main.06c7804c.css.map",
+    "main.bed61fd5.js.map": "/static/js/main.bed61fd5.js.map",
+    "415.6b0f0a86.chunk.js.map": "/static/js/415.6b0f0a86.chunk.js.map",
+    "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06c7804c.css",
+    "static/js/main.bed61fd5.js"
+  ]
+}
