@@ -16,7 +16,10 @@ import ScrollToTop from "./components/ScrollToTop";
 import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+import ReactGA from "react-ga";
 
+const Tracking_ID = "G-9SD48WNCT2"
+ReactGA.initialize(Tracking_ID);
 function App() {
   const [load, upadateLoad] = useState(true);
 

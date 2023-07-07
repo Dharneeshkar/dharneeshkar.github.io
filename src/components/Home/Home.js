@@ -1,11 +1,15 @@
-import React from "react";
+
 import { Container, Row, Col } from "react-bootstrap";
 import homeLogo from "../../Assets/home-main.svg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
-
+import ReactGA from "react-ga";
+import React, { useState, useEffect } from "react";
 function Home() {
+  useEffect(() => {
+    ReactGA.pageview(window.location.pathname);
+  }, []);
   return (
     <section>
       <Container fluid className="home-section" id="home">

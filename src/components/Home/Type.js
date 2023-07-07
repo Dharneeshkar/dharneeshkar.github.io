@@ -8,7 +8,7 @@ function Type() {
         strings: [
           "Software Developer",
           "Machine Learning",
-          "Computer Vision",
+          "Data Science",
           
         ],
         autoStart: true,
